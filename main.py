@@ -1,15 +1,11 @@
-from cs1graphics import *
-# http://www.cs1graphics.org/
-from cs1graphicsHelper import *
-# https://github.com/wellesleycs111/cs1graphicsHelper
+from cs1graphics import *   # http://www.cs1graphics.org/
+# If you need to use this library, you need to install it first.
+# from cs1graphicsHelper import *   # https://github.com/wellesleycs111/cs1graphicsHelper
 from time import sleep
-# Pixel Art , Train , Pinky Sunset , Counting stars , little bit dark sky , sun , sea , cloud, steam ...
 import random
 from PIL import ImageColor
 
 '''
-2022010844
-컴퓨터과학과 하일환
 설명 :
 지구로 떨어지는 혜성을 저기 사라진 별의 자리에 되돌려주러 가는 한 기차의 이야기. 
 
